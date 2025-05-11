@@ -46,8 +46,3 @@ This GRC project provides a structured approach for creating, distributing, and 
 - Employee compliance tracking  
 - GRC documentation and reporting  
 
----
-
-## 📜 License
-
-This project is for educational purposes. Feel free to adapt for internal or academic use.
